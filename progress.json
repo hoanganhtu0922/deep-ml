@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-11-18T17:05:29.640Z",
+  "items": {
+    "problem:1109": {
+      "kind": "problem",
+      "id": "1109",
+      "title": "Your first JOIN",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1109",
+      "path": "problems/1109-your-first-join",
+      "first_solved_at": "2026-11-18T17:05:23.878Z",
+      "last_pushed_at": "2026-11-18T17:05:23.878Z",
+      "language": "sql",
+      "lines": 6
+    }
+  }
+}
