@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**2** solved · 2 problems · 0 labs · 0 math
+**3** solved · 3 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Delete Duplicate Emails Keeping One](https://www.deep-ml.com/problems/1112) | easy | 2026-11-18 | [solution](problems/1112-delete-duplicate-emails-keeping-one) |
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-11-18 | [solution](problems/1109-your-first-join) |
+| [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-11-19 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
 
 ---
 

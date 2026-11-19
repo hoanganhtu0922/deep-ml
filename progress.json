@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T17:08:21.357Z",
+  "generated_at": "2026-11-19T01:38:12.157Z",
   "items": {
     "problem:1109": {
       "kind": "problem",
@@ -24,6 +24,19 @@
       "path": "problems/1112-delete-duplicate-emails-keeping-one",
       "first_solved_at": "2026-11-18T17:08:20.529Z",
       "last_pushed_at": "2026-11-18T17:08:20.529Z",
+      "language": "sql",
+      "lines": 6
+    },
+    "problem:1110": {
+      "kind": "problem",
+      "id": "1110",
+      "title": "Nth-Highest Salary with Ties and NULL",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1110",
+      "path": "problems/1110-nth-highest-salary-with-ties-and-null",
+      "first_solved_at": "2026-11-19T01:38:10.305Z",
+      "last_pushed_at": "2026-11-19T01:38:10.305Z",
       "language": "sql",
       "lines": 6
     }
